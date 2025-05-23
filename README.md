@@ -1,7 +1,5 @@
 
 
-
-
 # DNS Tunneling Detection via Iodine
 
 **Author:** Esosa Okonedo  
