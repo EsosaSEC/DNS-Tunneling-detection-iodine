@@ -107,5 +107,7 @@ sudo ssh kali@10.0.0.1
 This project was done as part of my personal SOC training and blue team practice, inspired by real-world DNS tunneling techniques.
 
 ---
-- [Download complete PDF Report](https://github.com/EsosaSEC/DNS-Tunneling-detection-iodine/blob/main/Incident%20Report-%20Detection%20of%20DNS%20Tunneling%20Attack.pdf)
+## FULL REPORT
+- For a detailed breakdown of the DNS tunneling simulation, detection steps, and analysis,[Download complete PDF Report](https://github.com/EsosaSEC/DNS-Tunneling-detection-iodine/blob/main/Incident%20Report-%20Detection%20of%20DNS%20Tunneling%20Attack.pdf)
+- For screenshots and network topology diagram,[Check Here](https://github.com/EsosaSEC/DNS-Tunneling-detection-iodine/tree/main/Images)
 - [
