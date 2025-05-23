@@ -37,7 +37,7 @@ While no real-world data exfiltration occurred, this project showcases how DNS c
 | DNS Tunneling Tool | Iodine                     |
 | Network       | 192.168.1.0/24 (Internal Lab)    |
 | IDS           | Suricata                         |
-| Packet Capture| Wireshark, tcpdump               |
+| Packet Capture| Wireshark                        |
 | SIEM          | Splunk                           |
 
 ---
