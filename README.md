@@ -1,6 +1,6 @@
 
 
-# DNS Tunneling Detection via Iodine
+# DNS Tunneling Detection using Suricata, Wireshark, and Splunk
 
 **Author:** Esosa Okonedo  
 **Date Completed:** May 22nd, 2025
